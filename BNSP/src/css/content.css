@@ -1,0 +1,11 @@
+.image-responsive {
+    max-width: 100%; 
+    height: auto;   
+    display: block; 
+    margin: 1rem; 
+}
+
+.image-responsive {
+    width: 380px; 
+    height: auto; 
+}
