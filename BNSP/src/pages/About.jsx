@@ -6,7 +6,10 @@ const About = () => {
     <div className="about-container">
       <h2 className="about-title">About Us</h2>
       <p className="about-description">
-        We provide cooling solutions like air conditioning services, installation, and more.
+        TechNova adalah Perusahaan yang bergerak dibidang
+         Service dan Instalasi berbagai Produk Pendingin,
+         seperti AC, Chiller, Vacuum, Cold Storage, Freezer, 
+          dan Polycold.
       </p>
 
     </div>

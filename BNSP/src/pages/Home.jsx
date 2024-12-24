@@ -6,7 +6,7 @@ import "../css/Home.css"
 const Home = () => {
   return (
     <>
-    <Navbar />
+    
     <div className="wrapper">
    <section id="home">
     {HomeSection.image}
@@ -16,7 +16,7 @@ const Home = () => {
 </section>
 
     </div>
-    <Footer/>
+    
     </>
   )
 };

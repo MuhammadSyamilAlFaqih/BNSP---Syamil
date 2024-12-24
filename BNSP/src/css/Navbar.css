@@ -59,7 +59,7 @@ nav {
       display: block;
       width: 100%;
       text-align: center;
-      font-size: 40px; /* Ukuran font lebih kecil di layar kecil */
+      font-size: 40px; 
     }
   
     nav .menu {
@@ -68,7 +68,7 @@ nav {
     }
   
     nav .menu ul {
-      flex-direction: column; /* Menu vertikal pada layar kecil */
+      flex-direction: column; 
       text-align: center;
       margin: auto;
       gap: 0;
@@ -81,7 +81,7 @@ nav {
     }
   }
 
-  /* Styling untuk tombol */
+  
 .btn-login {
   background-color: #364f6b !important; 
   color: white !important;
@@ -92,26 +92,26 @@ nav ul {
   margin: 0;
   padding: 0;
   display: flex;
-  align-items: center; /* Pusatkan elemen secara horizontal */
-  gap: 16px; /* Jarak antar elemen */
+  align-items: center; 
+  gap: 16px; 
 }
 
 nav ul li {
-  float: none; /* Hapus efek float */
-  width: 100%; /* Membuat item mengambil lebar penuh */
-  text-align: center; /* Pusatkan teks */
+  float: none; 
+  width: 100%; 
+  text-align: center; 
 }
 
 .btn-stack {
-  margin-top: -4px; /* Beri jarak tombol dengan menu lainnya */
-  width: 100%; /* Buat tombol mengikuti lebar kontainer */
+  margin-top: -4px; 
+  width: 100%; 
   display: flex;
-  justify-content: center; /* Pusatkan tombol */
+  justify-content: center; 
 }
 
 
 
-/* Styling untuk Stack (opsional) */
+
 .btn-stack {
-  justify-content: flex-end; /* Posisi tombol di kanan */
+  justify-content: flex-end;
 }
